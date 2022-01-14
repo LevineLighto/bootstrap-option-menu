@@ -2,7 +2,7 @@
 Create interactable lists to select options.  
 Press the plus (+) button in the options on the left to select it, and press the minus (-) button
 in the options on the right to deselect it.
-![Sample List from Kazhier.com](/demo/screenshot/Kz-sample.png)
+![Sample List from Kazhier.com](https://github.com/LevineLighto/bootstrap-option-menu/blob/0808ca9e8c2c5589e53fdfaa6ed84c6240f45991/demo/screenshot/Kz-sample.png)
 
 ## Usage
 * Make sure to include Bootstrap's CSS and Font Awesome to make sure it works properly
